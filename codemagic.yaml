@@ -10,7 +10,7 @@ workflows:
         bundle_identifier: com.EpicBallsGame
       vars:
         BUNDLE_ID: "com.EpicBallsGame"
-        XCODE_WORKSPACE: "BallGame.xcworkspacee" # <-- Put the name of your Xcode workspace here
+        XCODE_WORKSPACE: "BallGame.xcworkspace" # <-- Put the name of your Xcode workspace here
         XCODE_SCHEME: "BallGame" # <-- Put the name of your Xcode scheme here
         APP_STORE_APPLE_ID: 6739838598
       xcode: 15.4
